@@ -1,4 +1,3 @@
-// NPC.cs
 public class NPC
 {
     public string Name { get; }

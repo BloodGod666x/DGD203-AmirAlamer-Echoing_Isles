@@ -1,4 +1,3 @@
-// Game.cs
 using System;
 using System.Threading;
 
@@ -13,22 +12,22 @@ public class Game
         _map = new Map();
         _player = new Player();
 
-        // create locations
+        
         Location beach = new Location("Sandy Beach", "Golden sand stretches along the shore, with gentle waves lapping at the edge.", 0, 0);
         Location forestEdge = new Location("Forest Edge", "The dense forest looms, dark and mysterious, blocking the way north.", 0, 1, "The air feels colder as you move towards the forest.");
         Location oldCabin = new Location("Old Cabin", "A dilapidated cabin stands, with broken windows and a weathered door.", 0, 2, "You can feel the history within the old walls.");
         Location mysticalCave = new Location("Mystical Cave", "A dark cave opening is before you, with unkown depths.", 1, 1, "A strange glow is coming from within.");
 
-        // add locations to map
+        
         _map.AddLocation(beach);
         _map.AddLocation(forestEdge);
         _map.AddLocation(oldCabin);
         _map.AddLocation(mysticalCave);
 
-        // Add items
+        
         beach.AddItem(new Item("Rusty Key", "A worn, old key, rusted by the sea air.", 1, true)); // id 1
         mysticalCave.AddItem(new Item("Glowing Stone", "A warm, pulsing stone, glowing faintly.", 2));
-        // Add NPCs
+        
         oldCabin.NPC = new NPC("Old Hermit", "Welcome stranger... Have you come to seek the answers to the echoing isles?");
 
     }

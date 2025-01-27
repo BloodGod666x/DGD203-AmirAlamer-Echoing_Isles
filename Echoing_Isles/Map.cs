@@ -1,4 +1,3 @@
-// Map.cs
 using System.Collections.Generic;
 
 public class Map
