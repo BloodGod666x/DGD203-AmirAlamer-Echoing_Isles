@@ -1,0 +1,14 @@
+C:\Users\eden\source\repos\Echoing Isles\bin\Release\net9.0\Echoing Isles.exe
+C:\Users\eden\source\repos\Echoing Isles\bin\Release\net9.0\Echoing Isles.deps.json
+C:\Users\eden\source\repos\Echoing Isles\bin\Release\net9.0\Echoing Isles.runtimeconfig.json
+C:\Users\eden\source\repos\Echoing Isles\bin\Release\net9.0\Echoing Isles.dll
+C:\Users\eden\source\repos\Echoing Isles\bin\Release\net9.0\Echoing Isles.pdb
+C:\Users\eden\source\repos\Echoing Isles\obj\Release\net9.0\Echoing Isles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eden\source\repos\Echoing Isles\obj\Release\net9.0\Echoing Isles.AssemblyInfoInputs.cache
+C:\Users\eden\source\repos\Echoing Isles\obj\Release\net9.0\Echoing Isles.AssemblyInfo.cs
+C:\Users\eden\source\repos\Echoing Isles\obj\Release\net9.0\Echoing Isles.csproj.CoreCompileInputs.cache
+C:\Users\eden\source\repos\Echoing Isles\obj\Release\net9.0\Echoing Isles.dll
+C:\Users\eden\source\repos\Echoing Isles\obj\Release\net9.0\refint\Echoing Isles.dll
+C:\Users\eden\source\repos\Echoing Isles\obj\Release\net9.0\Echoing Isles.pdb
+C:\Users\eden\source\repos\Echoing Isles\obj\Release\net9.0\Echoing Isles.genruntimeconfig.cache
+C:\Users\eden\source\repos\Echoing Isles\obj\Release\net9.0\ref\Echoing Isles.dll

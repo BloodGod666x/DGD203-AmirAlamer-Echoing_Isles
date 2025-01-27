@@ -1,0 +1,5 @@
+C:\Users\eden\Desktop\Echoing_Isles\Echoing Isles.exe
+C:\Users\eden\Desktop\Echoing_Isles\Echoing Isles.dll
+C:\Users\eden\Desktop\Echoing_Isles\Echoing Isles.deps.json
+C:\Users\eden\Desktop\Echoing_Isles\Echoing Isles.runtimeconfig.json
+C:\Users\eden\Desktop\Echoing_Isles\Echoing Isles.pdb
